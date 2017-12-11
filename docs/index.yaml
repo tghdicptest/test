@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2017-12-11T00:38:37.365978636-08:00
+    description: A Helm chart for Kubernetes
+    digest: 0612b2982cbc52b585b820d6bbad80fed2a5dc9c427569d8a5c7b6ce7c6d079d
+    name: notificationchart
+    urls:
+    - https://tghdicptest.github.io/test/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2017-12-11T00:38:37.365281881-08:00
